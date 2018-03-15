@@ -1,0 +1,190 @@
+a{
+    text-decoration: none;
+    color: #757575;
+    font-size: 14px;
+    font-weight: bolder;
+}
+a:hover{
+    color: orange;
+}
+.topBar{
+    height: 31px;
+    color: #757575;
+    line-height: 31px;
+}
+.leftArea{
+    float: left;
+}
+.rightArea{
+    float: right;
+}
+.logoWrapper{
+    background-color: dodgerblue;
+}
+.logoBar{
+    height: 85px;
+    padding-top: 17px;
+}
+.logo{
+    margin-left: 37px;
+    float: left;
+}
+.search{
+    font-size: 0px;
+    width: 430px;
+    padding-top:15px;
+    padding-left: 165px;
+    float: left;
+}
+.searchText{
+    width: 350px;
+    height: 35px;
+    padding: 0 5px;
+    border-radius: 10px;
+}
+.searchButton{
+    background-color: orange;
+    width: 60px;
+    font-size: 14px;
+    font-weight: bolder;
+    height: 35px;
+    border-radius:5px;
+    margin-left: 3px;
+    color: #fff;
+    cursor: pointer;
+    padding: 0;
+}
+.shopCar{
+    line-height: 35px;
+    text-align: center;
+    color: #fff;
+    margin-top: 15px;
+    float: right;
+    height: 35px;
+    width: 150px;
+    background-color: orange;
+    margin-right: 50px;
+    border-radius: 5px;
+}
+.navWrapper{
+    background-color: #2088ef;
+}
+.navBar{
+    height: 35px;
+}
+.navWrapper .navBar li{
+    float: left;
+    line-height: 35px;
+    padding-left: 58px;
+}
+.navWrapper .navBar li a{
+    color: #fff;
+}
+.navWrapper .navBar li h3{
+    color: #fff;
+    display: inline-block;
+    margin-right: 5px;
+    font-size: 15px;
+}
+.navWrapper .navBar li a:hover{
+    background-color: dodgerblue;
+}
+
+.bannerBar{
+    padding-top: 1px;
+}
+.items{
+    float: left;
+    width: 200px;
+}
+.item{
+    width: 180px;
+    background-color: orange;
+    padding-top: 8px;
+    padding-left: 10px;
+    margin-left: 20px;
+    border-radius: 5px;
+    height: 50px;
+    border-bottom: white solid 1px;
+}
+.item ul li{
+    float: left;
+    padding-bottom: 5px;
+}
+.item ul li a{
+    margin-top: 5px;
+    color: #fff;
+    margin-left: 15px;
+}
+.bannerImg{
+    margin-left: 2px;
+    height: 295px;
+    width: 790px;
+    overflow: hidden;
+    border-radius: 5px;
+}
+.shopIcon{
+    margin-left: 20px;
+    margin-top: 10px;
+    float: left;
+    width: 50px;
+    height: 40px;
+    background-color: orange;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 12px;
+}
+.shopList .shopTitle h1{
+    float: left;
+    font-size: 30px;
+    font-weight: bolder;
+    color: #757575;
+    margin-top: 20px;
+    margin-left: 8px;
+}
+.shopList .shopTitle a{
+    float: right;
+    margin-right: 10px;
+    margin-top: 30px;
+}
+.shopBanner{
+    margin-top: 5px;
+    float: left;
+    border-radius: 5px;
+    margin-left: 18px;
+}
+.shopItems{
+    margin-top: 10px;
+}
+.shopItem{
+    margin-left: 10px;
+}
+.itemWrapper{
+    float: left;
+}
+.shopBigImg{
+    text-align: center;
+    width: 200px;
+    height: 280px;
+    border-bottom: orange solid 1px;
+}
+.shopBigImg img{
+    margin-top: 10px;
+    height: 180px;
+    width: 150px;
+}
+.shopBigImg h3{
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.shopSmallImg{
+    text-align: center;
+    margin-top: 15px;
+    float: left;
+    width: 200px;
+    height: 120px;
+}
+.shopSmallImg span{
+    font-size: 14px;
+}
